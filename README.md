@@ -6,10 +6,15 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+👋;I'm+Khadija!;Welcome+to+my+GitHub+profile!&center=true&size=30"> </a> </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaduj03&color=brightgreen" alt="Profile Views" /> </p>
 👩‍💻 About Me
+
 🌍 I'm Khadija, a passionate Frontend Developer from Afghanistan.
+
 🎯 My goal is to create intuitive, responsive, and modern web applications.
+
 🌱 Currently exploring Next.js and honing my skills in React.
+
 🤝 Open to collaborating on exciting projects and challenges.
+
 
 ### 🛠️ Skills & Tools
 
