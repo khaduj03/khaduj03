@@ -1,4 +1,3 @@
-
 <!---
 khaduj03/khaduj03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -7,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+👋;I'm+Khadija!;Welcome+to+my+GitHub+profile!&center=true&size=30"> </a> </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=khaduj03&color=brightgreen" alt="Profile Views" /> </p>
 👩‍💻 About Me
 
-
 🌍 I'm Khadija, a Frontend Developer from Afghanistan.
 
 🎯 My goal is to create intuitive, responsive, and modern web applications.
@@ -15,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 🌱 Currently learning Next.js and honing my skills in React.
 
 🤝 Open to collaborating on exciting projects and challenges.
-
 
 ### 🛠️ Skills & Tools
 
@@ -46,4 +43,14 @@ You can click the Preview link to take a look at your changes.
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏆 Coding Adventures
-<p> <a href="https://github.com/khaduj03" target="_blank"> <img src="https://img.shields.io/badge/GitHub-khaduj03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.frontendmentor.io/profile/khaduj03" target="_blank"> <img src="https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor"> </a> </p>
+<p> 
+  <a href="https://github.com/khaduj03" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-khaduj03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
+  </a> 
+  <a href="https://www.frontendmentor.io/profile/khaduj03" target="_blank"> 
+    <img src="https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor"> 
+  </a> 
+  <a href="https://leetcode.com/u/khadija1403/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
